@@ -14,6 +14,14 @@ To add a new task, run the following command:
 
 Replace `"task name here"` with the name of the task you want to add.
 
+### List all Tasks
+
+To list all tasks in cli
+
+```sh
+./todo -l
+```
+
 ### Delete a Task
 
 To delete a task by its index, run the following command:
